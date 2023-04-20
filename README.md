@@ -13,9 +13,10 @@ A system that revolutionize the booking process, allowing for real-time record v
 ## User Requirements
 
 ### Member
-- [ ]	Create an account, venue booking, 
+- [ ]	Create an account,
+- [ ]	venue booking, 
 - [ ]	Guest list management,
-- [ ]	Check personal booking records, and
+- [ ]	Check personal booking records,
 - [ ]	Update personal booking records.
 
 
