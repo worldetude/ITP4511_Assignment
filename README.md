@@ -2,7 +2,33 @@
 
 A system that revolutionize the booking process, allowing for real-time record verification and the generation of statistical reports.
 
-## Requirements  
+### Group Members
+
+|Student|Full Name|Student No.|Work Breakdown|
+|-------|---------|-----------|--------------|
+|Student 1|       |           |             %|
+|Student 2|       |           |             %|
+|Student 3|       |           |             %|
+
+## User Requirements
+
+### Member
+- [ ]	Create an account, venue booking, 
+- [ ]	Guest list management,
+- [ ]	Check personal booking records, and
+- [ ]	Update personal booking records.
+
+
+### Staff
+- [ ]	Venue information and timeslot management, 
+- [ ]	Handle members’ booking records (approval, check-in/checkout).
+
+
+### Senior Management
+- [ ]	Check the analytic & report, 
+- [ ]	User account management.
+
+## Function Requirements  
 
 ### Venue and Guest List Management
 
